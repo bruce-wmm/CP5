@@ -37,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		18459C7E1FA896B400FAC10C /* test.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test.txt; sourceTree = "<group>"; };
+		1876FB561FA95CAE00C4AC3E /* name.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = name.json; sourceTree = "<group>"; };
 		18DEF8E61FA8792600B2D413 /* Cp55_test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cp55_test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18DEF8E91FA8792600B2D413 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		18DEF8EA1FA8792600B2D413 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -107,6 +108,7 @@
 				18DEF8EA1FA8792600B2D413 /* AppDelegate.m */,
 				18459C7E1FA896B400FAC10C /* test.txt */,
 				18DEF8EC1FA8792600B2D413 /* ViewController.h */,
+				1876FB561FA95CAE00C4AC3E /* name.json */,
 				18DEF8ED1FA8792600B2D413 /* ViewController.m */,
 				18DEF8EF1FA8792600B2D413 /* Main.storyboard */,
 				18DEF8F21FA8792600B2D413 /* Assets.xcassets */,
