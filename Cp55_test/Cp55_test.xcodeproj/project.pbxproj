@@ -16,6 +16,7 @@
 		18DEF8F91FA8792600B2D413 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DEF8F81FA8792600B2D413 /* main.m */; };
 		18DEF9031FA8792600B2D413 /* Cp55_testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DEF9021FA8792600B2D413 /* Cp55_testTests.m */; };
 		18DEF90E1FA8792700B2D413 /* Cp55_testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18DEF90D1FA8792700B2D413 /* Cp55_testUITests.m */; };
+		18FF83BD1FBFE42E00B021E0 /* shishicai.txt in Resources */ = {isa = PBXBuildFile; fileRef = 18FF83BC1FBFE42E00B021E0 /* shishicai.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		18DEF9091FA8792700B2D413 /* Cp55_testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Cp55_testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18DEF90D1FA8792700B2D413 /* Cp55_testUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Cp55_testUITests.m; sourceTree = "<group>"; };
 		18DEF90F1FA8792700B2D413 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18FF83BC1FBFE42E00B021E0 /* shishicai.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = shishicai.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 			children = (
 				18DEF8E91FA8792600B2D413 /* AppDelegate.h */,
 				18DEF8EA1FA8792600B2D413 /* AppDelegate.m */,
+				18FF83BC1FBFE42E00B021E0 /* shishicai.txt */,
 				18459C7E1FA896B400FAC10C /* test.txt */,
 				18DEF8EC1FA8792600B2D413 /* ViewController.h */,
 				1876FB571FA9601800C4AC3E /* CP5.json */,
@@ -249,6 +252,7 @@
 				18DEF8F31FA8792600B2D413 /* Assets.xcassets in Resources */,
 				18459C7F1FA896B400FAC10C /* test.txt in Resources */,
 				18DEF8F11FA8792600B2D413 /* Main.storyboard in Resources */,
+				18FF83BD1FBFE42E00B021E0 /* shishicai.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
